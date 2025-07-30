@@ -1,3 +1,3 @@
 server:
   servics:
-    type: nodePort
+    type: NodePort
